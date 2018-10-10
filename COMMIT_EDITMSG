@@ -1,0 +1,73 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Untracked files:
+#	.ICEauthority
+#	.PhpStorm2018.2/
+#	.PlayOnLinux/
+#	.Xauthority
+#	.bash_history
+#	.bash_logout
+#	.bashrc
+#	.cache/
+#	.config/
+#	.dmrc
+#	.fehbg
+#	.gitconfig
+#	.gitkraken/
+#	.gnome-commander/
+#	.gnome2/
+#	.gnupg/
+#	.gtkrc-2.0
+#	.gtkrc-2.0.save
+#	.gtkrc.bak
+#	.icons/
+#	.java/
+#	.kde/
+#	.lesshst
+#	.local/
+#	.minecraft/
+#	.mozilla/
+#	.mysql_history
+#	.nano/
+#	.npm/
+#	.nv/
+#	.nvidia-settings-rc
+#	.pki/
+#	.profile
+#	.sauerbraten/
+#	.ssh/
+#	.steam/
+#	.steampath
+#	.steampid
+#	.sudo_as_admin_successful
+#	.thumbnails/
+#	.thunderbird/
+#	.viminfo
+#	.vmware/
+#	.vscode/
+#	.wget-hsts
+#	.xinputrc
+#	.xsession-errors
+#	.xsession-errors.old
+#	.xsessionrc
+#	Desktop/
+#	Documents/
+#	Downloads/
+#	Games/
+#	Pictures/
+#	PlayOnLinux's virtual drives
+#	VirtualBox VMs/
+#	bleh.sh
+#	examples.desktop
+#	i3-gaps_shiz/
+#	snap/
+#	waterfox-56.0.3.en-US.linux-x86_64.tar.bz2
+#	waterfox/
+#	windows10.img
+#

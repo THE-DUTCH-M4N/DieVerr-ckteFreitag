@@ -1,0 +1,22 @@
+CREATE TABLE SubmittedSong
+(
+ SubmittedKey int  AUTO_INCREMENT,
+ YoutubeVideoid varchar(255),
+ Naam varchar(255),
+ Accpeted tinyint,
+ SubmitDate Date,
+ PRIMARY KEY(SubmittedKey)
+)
+
+CREATE TABLE Blacklisted
+(
+    YoutubeVideoid varchar(255) not null,
+    PRIMARY KEY(YoutubeVideoid)
+)
+CREATE TABLE AdminAcount
+(
+    AdminKey int AUTO_INCREMENT,
+    UserName varchar(255) not null,
+    PassWord varchar(255) not null,
+    PRIMARY KEY(AdminKey)
+)
